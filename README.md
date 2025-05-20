@@ -20,11 +20,13 @@ After completing a course in Health Data Analytics, I’ve fully committed to tr
 
 ### 🚀 Projects I’m Proud Of
 - [📦 Amazon Sales 2025 – Exploratory Data Analysis](https://github.com/Funmilong/Amazon-Sales-2025-EDA)
+- 🚀 Currently learning: Power BI & real-world project building  
+
 
 
 ### 📫 Let’s Connect!
 - [LinkedIn](https://www.linkedin.com/in/funmi-longe-bb43971b/)
-- Always open to collaboration, learning, and new opportunities!
+- 🌍 Open to: Remote Data Analyst opportunities, collaborations, and internships
 
 
 > *“You don’t have to be great to start. But you have to start to be great.”* – Zig Ziglar
