@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Funmi!
 
 I’m a curious-minded, data-loving human with a heart for insights and a head full of Python.  
-After completing a course in Health Data Analysis, I’ve fully committed to transitioning into the world of **data analytics** — and I’m having so much fun learning and building along the way!
+After completing a course in Health Data Analytics, I’ve fully committed to transitioning into the world of **data analytics** — and I’m having so much fun learning and building along the way!
 
 
 ### 🌟 What I'm About
