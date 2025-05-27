@@ -4,14 +4,14 @@ I’m a curious-minded, data-loving human with a heart for insights and a head f
 After completing a course in Health Data Analytics, I’ve fully committed to transitioning into the world of **data analytics** — and I’m having so much fun learning and building along the way!
 
 
-###  What I'm About
+### What I'm About
  Turning messy data into meaningful answers  
  Visualizing stories hidden in spreadsheets  
  Asking the right questions (and sometimes weird ones too!)  
  Bringing energy, empathy, and excellence to everything I do
 
 
-### 🛠 Tools I Work With
+### Tools I Work With
 - Python | Pandas | Matplotlib
 - SQL | Data Cleaning | Joins & Aggregations
 - Excel | Pivot Tables | Dashboards
